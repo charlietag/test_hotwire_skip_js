@@ -2,6 +2,8 @@
 
 ## Test hotwire
 
+* asset pipeline
+
 * webpack
 * https://hotwired.dev/
 * test name
